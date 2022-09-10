@@ -12,7 +12,6 @@
   - [预售配置及价格](/Buying/prices.md)
   - [预售规则](/Buying/pre_order.md)
 - 4.售后支持
-  - [服务内容](/)
-  - [售后社群](/)
+  - [服务内容](/support/service.md)
   - [BIOS下载与更新](/)
   - [可替换零部件](/)
