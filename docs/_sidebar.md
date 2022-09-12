@@ -6,7 +6,7 @@
   - [硬件参数](/project/hardware_design.md)
 - 2.R1产品设计
   - [设计图纸](/hardwareDesign/Design.md)
-  - [工程样机](/)
+  - [工程样机](/hardwareDesign/sample.md)
   - [样机测试](/)
 - 3.R1预售规则
   - [预售配置及价格](/Buying/prices.md)
