@@ -7,7 +7,7 @@
 - - CPU：赛扬N5105、奔腾N6005
   - 内存：板载海力士/三星 LPDDR4 双颗粒，双通道
 
-  - 网卡：Intel i226-IT    **<small>(优于i226-v)</small>**
+  - 网卡：Intel i226-v    **<small>(优于i225-v)</small>**
 
   - 硬盘：M.2 **<small>接口形式（单双缺口都行）</small>** 2242 **<small>硬盘尺寸规格</small>** ， 支持 `SATA(NGFF)` 和 `NVMe(x2速率)`协议 **<small>(二选一 主板不同)</small>**
 
