@@ -22,16 +22,15 @@
 1. 如果是计划物理机安装开源操作系统，选择 `N5105 + 8GB + 128GB` 足够折腾；
 2. 如果是计划玩虚拟机，那么建议内存优先考虑16GB，如果仅是PVE下双软路由，8GB内存也是足够的；
 3. 关于带硬盘配置的硬盘品牌问题：
-   硬酷科技找OEM合作厂商专属定制硬盘，质保3年，放心使用。<br>带硬盘配置订单，如需要代为安装系统，需下单时备注所需安装的开源操作系统。<br>部分512GB NVMe协议硬盘为从某售后服务中心拿到的三星PM991、PM991A、镁光C2450、西数SN740等数量极少，<br>优先给早期项目支持者 <small>**（已结束）**</small>。
+   硬酷科技找OEM合作厂商专属定制硬盘，质保3年，放心使用。<br>带硬盘配置订单，如需要代为安装系统，需下单时备注所需安装的开源操作系统。<br>部分512GB NVMe协议硬盘为从某售后服务中心拿到的 *三星PM991、PM991A、镁光C2450、西数SN740等数量极少，* <br>优先给早期项目支持者 <small>**（已结束）**</small>。
 4. OEM定制硬盘标签纸如下图所示：<br>
    - 硬盘芯片信息：
-     - NVMe主控：联芸(Maxio)科技 **MAP1202A-F1C** ，使用此款芯片的市售产品有： [海康威视CC500](https://zhuanlan.zhihu.com/p/394138333) 、[Lexar雷克沙NM610PRO](https://diy.pconline.com.cn/1535/15359085.html) 、[致态TiPlus5000](https://www.chongdiantou.com/archives/137851.html) 
-     - SATA主控：联芸(Maxio)科技 **MAS1102B-B1C** ；
+     - NVMe主控：联芸(Maxio)科技 **MAP1202A-F1C  <small>(以128G为例，其他容量主控可能有变化) </small>** ，使用此款芯片的市售产品有： [海康威视CC500](https://zhuanlan.zhihu.com/p/394138333) 、[Lexar雷克沙NM610PRO](https://diy.pconline.com.cn/1535/15359085.html) 、[致态TiPlus5000](https://www.chongdiantou.com/archives/137851.html) 
+     - SATA主控：联芸(Maxio)科技 **MAS1102B-B1C <small>(以128G为例，其他容量主控可能有变化) </small>**   ；
      - 颗粒：长江存储
-     - 保修政策：3年只换不修
+     - 保修政策： **3年只换不修**
    - 硬盘标签样图：![](..\images\SSD.jpg)
 
 ![mul_banner](..\images\mul_banner.png)
 
 <H5><center>方寸之间 尽享乐趣<br>颜  值  在  线  性  能  强  劲</center>
-
