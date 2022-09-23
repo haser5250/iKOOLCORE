@@ -60,7 +60,7 @@
    **运行20分钟后，晚上22:53分**![](/Users/wott/Desktop/wiki.ikoolcore.cn/docs/images/N5100_temp1.jpg)
    ![](../images/N5100_temp2.jpg)
    
-   
+   ![](../images/limited.jpg)
 
 
 
