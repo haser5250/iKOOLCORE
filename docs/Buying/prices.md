@@ -29,8 +29,9 @@
      - SATA主控：联芸(Maxio)科技 **MAS1102B-B1C** ；
      - 颗粒：长江存储
      - 保修政策：3年只换不修
-   - 硬盘标签样图：![](..\images\NVMe_SATA.png)
+   - 硬盘标签样图：![](..\images\SSD.jpg)
 
 ![mul_banner](..\images\mul_banner.png)
 
 <H5><center>方寸之间 尽享乐趣<br>颜  值  在  线  性  能  强  劲</center>
+
