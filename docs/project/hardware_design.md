@@ -57,7 +57,8 @@
    
    ![](../images/weather_temp.jpg)
    ![](../images/N5100_temp.jpg)
-   **运行20分钟后，晚上22:53分**![](../images/N5100_temp1.jpg)
+   **运行20分钟后，晚上22:53分**![](/Users/wott/Desktop/wiki.ikoolcore.cn/docs/images/N5100_temp1.jpg)
+   ![](../images/N5100_temp2.jpg)
    
    
 
