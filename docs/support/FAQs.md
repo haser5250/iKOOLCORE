@@ -17,23 +17,24 @@
 
 3. **产品售价**
 
-4. |  CPU  | 内存大小<br> `板载，双颗粒双通道，不可升级` | 硬盘大小<br> `SATA协议`或 `NVMe协议 二选一` |  价格  |                           购买链接                           |
-   | :---: | :-----------------------------------------: | :-----------------------------------------: | :----: | :----------------------------------------------------------: |
-   | N5105 |                     8GB                     |                   `不带`                    | ￥999  | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-   |       |                    16GB                     |                   `不带`                    | ￥1299 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-   |       |                                             |                                             |        |                                                              |
-   | N5105 |                     8GB                     |                    128GB                    | ￥1199 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-   |       |                                             |                                             |        |                                                              |
-   | N5105 |                    16GB                     |                    512GB                    | ￥1799 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-   |       |                                             |                                             |        |                                                              |
-   | N6005 |                     8GB                     |                   `不带`                    | ￥1199 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-   |       |                    16GB                     |                   `不带`                    | ￥1499 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-   |       |                                             |                                             |        |                                                              |
-   | N6005 |                     8GB                     |                    128GB                    | ￥1399 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-   |       |                                             |                                             |        |                                                              |
-   | N6005 |                    16GB                     |                    512GB                    | ￥1999 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+    |   CPU   | 内存大小<br> `板载，双颗粒双通道，不可升级` | 硬盘大小<br> `SATA协议`或 `NVMe协议 二选一` |  价格  |                           购买链接                           |
+       | :-----: | :-----------------------------------------: | :-----------------------------------------: | :----: | :----------------------------------------------------------: |
+       |  N5105  |                     8GB                     |                   `不带`                    | ￥999  | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+       |         |                    16GB                     |                   `不带`                    | ￥1299 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+       |         |                                             |                                             |        |                                                              |
+       |  N5105  |                     8GB                     |                    128GB                    | ￥1199 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+       |         |                                             |                                             |        |                                                              |
+       |  N5105  |                    16GB                     |                    512GB                    | ￥1799 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+       |         |                                             |                                             |        |                                                              |
+       | `N6005` |                     8GB                     |                   `不带`                    | ￥1199 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+       |         |                    16GB                     |                   `不带`                    | ￥1499 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+       |         |                                             |                                             |        |                                                              |
+       |  N6005  |                     8GB                     |                    128GB                    | ￥1399 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+       |         |                                             |                                             |        |                                                              |
+       |  N6005  |                    16GB                     |                    512GB                    | ￥1999 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 
-   ##### 带配置的硬盘是啥牌子？啥主控？啥颗粒？
+
+4. 带配置的硬盘是啥牌子？啥主控？啥颗粒？
 
    **<small>OEM定制的NVMe和SATA固态硬盘 </small>** ， 主控信息如下：<br>
 
