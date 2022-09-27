@@ -19,3 +19,4 @@
     - [SSD（SATA/NVMe）]()
     - [R1上盖](/)
     - [金属外壳](/)
+  - [FAQs](/support/FAQs.md)
