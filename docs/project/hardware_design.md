@@ -1,6 +1,6 @@
 ![](..\images\Banner_404.png)
 
-##### 硬件参数：[AIDA64报告](..\docs\project\Report.htm)
+##### 硬件参数：[AIDA64报告](\Report.htm)
 
 > 从0到1，全新设计。
 
