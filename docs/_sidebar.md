@@ -14,7 +14,8 @@
   - [进度信息](/Buying/process.md)
 - 4.售后支持
   - [服务内容](/support/service.md)
-  - [BIOS下载与更新](/)
+  - [BIOS与驱动](/)
+    - [Intel i226-v网卡驱动](/files/Intel i226-v Driver Wired_driver_27.6_x64.zip)
   - [可替换零部件](/)
     - [散热器（涡扇）](/)
     - [SSD（SATA/NVMe）]()
