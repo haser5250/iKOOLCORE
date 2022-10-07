@@ -14,11 +14,7 @@
   - [进度信息](/Buying/process.md)
 - 4.售后支持
   - [服务内容](/support/service.md)
-  - [BIOS与驱动](/)
-    - [Intel i226-v网卡驱动](https://github.com/KoolCore/ikoolcore/blob/main/docs/files/Intel%20i226-v%20Driver%20Wired_driver_27.6_x64.zip)
-  - [可替换零部件](/)
-    - [散热器（涡扇）](/)
-    - [SSD（SATA/NVMe）]()
-    - [R1上盖](/)
-    - [金属外壳](/)
+  - [BIOS与驱动](/support/BIOS-Drivers.md)
+  - [R1组件](/support/parts.md)
   - [FAQs](/support/FAQs.md)
+
