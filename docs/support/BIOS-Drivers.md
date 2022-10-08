@@ -5,12 +5,12 @@
    - 出厂BIOS： **<small>稍晚些时候推出</small>**
    - 最新BIOS： **<small>稍晚些时候推出</small>**
 3. 虚拟机安装镜像：
-   - PVE：**<small>[官网下载](https://www.proxmox.com/en/downloads)</small>**
-   - ESXi：**<small>稍晚些时候上传</small>**
+   - PVE： **<small>[官网下载](https://www.proxmox.com/en/downloads)</small>** 
+   - ESXi： **<small>稍晚些时候上传</small>** 
 4. 路由器系统 **<small>仅推荐开源的</small>** ：
-   - OpenWRT：**<small>稍晚些时候上传</small>**
-   - pfSense：**<small>稍晚些时候上传</small>** 
-   - OPNsense：**<small>稍晚些时候上传</small>**
+   - OpenWRT： **<small>稍晚些时候上传</small>** 
+   - pfSense： **<small>稍晚些时候上传</small>**  
+   - OPNsense： **<small>稍晚些时候上传</small>** 
    - iKuai: <small>**[前往官网了解&下载](https://www.ikuai8.com/)**</small>
    - Panabit:  <small>**[前往官网了解&下载](https://www.panabit.com/)**</small>
 
