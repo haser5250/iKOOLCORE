@@ -13,8 +13,7 @@
 1. 整机质保一年，硬盘质保3年   **<small>(只换不修)</small>** ；
 2. 整机服务周期：保证2年，尽可能延长到3年。期间超过1年不到2年之内的所有硬件问题，均成本芯片级维修，支持多次售后申请，直到问题解决  **<small>(CPU不挂的前提下，一切硬件问题都不是问题)</small>** ；
 3. 售后群技术支持：<br>  **<small>(交过朋友的小伙伴，可以进入专属售后群。)</small>** ；
-   - 微信：`RoyDutt` **<small> 麻烦主动发送订单截图，才会被邀请进群</small>**
-   - Wechat：`isWott`  **<small> 硬酷科技</small>**
+   - 微信：`iKoolCore` **<small> 麻烦主动发送订单截图，才会被邀请进群</small>**
    - Telegram： **<small> [点击进群](https://t.me/+5DJxkY8ZB-kzNzRl)  需要等待审核通过（防止Bot进入）</small>**
 
 ![](..\images\iKoolCore.png)
