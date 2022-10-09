@@ -13,11 +13,11 @@
 
   - 显示输出：HDMI 2.0 4K60Hz视频输出
 
-  - USB接口：USB 3.1 Gen1 x 2; USB-C 3.1 Gen1 x 1; TF Card x 1  **<small>(支持启动)</small>**
+  - USB接口：USB 3.1 Gen1 x 2; USB-C 3.1 Gen1 x 1; TF Card x 1  **<small>(暂不支持启动，为解决该问题已卡住两周，后续再看是否可通过升级BIOS解决)</small>**
 
   - 散热方式：主动散热
 
-  - 供电方式：USB-C接口供电 12V2A或12V3A  **<small>(标配PD诱骗线，可使用PD充电头配合诱骗线供电)</small>**
+  - 供电方式：USB-C接口供电 12V2A或12V3A  **<small>(标配PD **DC转C口直通线**  ~~~诱骗线~~~，使用不当容易烧坏主板供电，怕弄巧成拙。非5块钱成本因素考虑！)</small>**
 
   - 产品尺寸：**7.5 x 7.5 x 4.8 cm  <small>（方寸之间 尽享乐趣）</small>**
 
