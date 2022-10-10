@@ -9,7 +9,7 @@
 
   - 网卡：Intel i226-v    **<small>(优于i225-v)</small>**
 
-  - 硬盘：M.2 **<small>接口形式（单双缺口都行）</small>** 2242 **<small>硬盘尺寸规格</small>** ， 支持 `SATA(NGFF)` 和 `NVMe(x2速率)`协议 **<small>(二选一，主板不同)</small>**
+  - 硬盘：M.2 **<small>接口形式（单双缺口都行）</small>** 2242 **<small>硬盘尺寸规格</small>** ， 为 `NVMe(x2速率)`协议 **<small>(SATA协议暂时不生产)</small>**
 
   - 显示输出：HDMI 2.0 4K60Hz视频输出
 
