@@ -18,10 +18,10 @@
   - [R1组件](/support/parts.md)
   - [FAQs](/support/FAQs.md)
 - 5.使用指南
-  - [出厂配置](/guidance/)
-  - [使用说明书](/guidance/)
-  - [默认系统](/guidance/)
-  - [Up主评测](/guidance/)
-  - [真机实测](/guidance/)
+  - [出厂配置](/guidance/configuration.md)
+  - [使用说明书](/guidance/manual.md)
+  - [默认系统](/guidance/default_os.md)
+  - [Up主评测](/guidance/reviews.md)
+  - [真机实测](/guidance/test.md)
   
 
