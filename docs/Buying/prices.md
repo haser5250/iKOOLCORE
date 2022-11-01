@@ -26,7 +26,6 @@
 4. OEM定制硬盘标签纸如下图所示：<br>
    - 硬盘芯片信息：
      - NVMe主控：联芸(Maxio)科技 **MAP1202A-F1C  <small>(以128G为例，其他容量主控可能有变化) </small>** ，使用此款芯片的市售产品有： [海康威视CC500](https://zhuanlan.zhihu.com/p/394138333) 、[Lexar雷克沙NM610PRO](https://diy.pconline.com.cn/1535/15359085.html) 、[致态TiPlus5000](https://www.chongdiantou.com/archives/137851.html) 
-     - SATA主控： <small>**暂不生产SATA协议机器，同时不提供SATA协议M.2 2242硬盘** </small>
      - 颗粒：长江存储
      - 保修政策： **3年只换不修**
    - 硬盘标签样图：![](..\images\SSD.jpg)
@@ -34,4 +33,3 @@
 ![mul_banner](..\images\mul_banner.png)
 
 <H5><center>方寸之间 尽享乐趣<br>颜  值  在  线  性  能  强  劲</center>
-

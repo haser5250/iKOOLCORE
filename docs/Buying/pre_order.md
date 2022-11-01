@@ -6,8 +6,8 @@
 
 > 参与预售的所有小伙伴可以获得  <small> **在标准定价的基础上，优惠100元** </small> 
 
-- - 领券链接： **<small>[领取100元券](https://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=2208215115814&activityId=d6b15f401c6c440ea4ae3a79f1cd3a3d)</small>**  （活动结束，领券链接失效）
-  - 下单链接： **<small>[下单购买](https://item.taobao.com/item.htm?ft=t&id=682025492099)  支持花呗</small>**
+- 
+  - 下单链接： **<small>[下单购买](https://item.taobao.com/item.htm?ft=t&id=682025492099)  支持花呗，暂不支持信用卡支付</small>**
     ![](..\images\pre_order.png)
   - 发货时间：`10.28-11.18` **<small> 疫情之下，变数较多。如有变动，会及时告知已下单客户</small>** <br>已经下单客户，注意旺旺消息，客服会发送协商发货同意信息，麻烦大家点击 **同意** ， 感谢🙏理解！
   - `淘宝旺旺`聊天⚠️注意事项：
