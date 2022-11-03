@@ -4,7 +4,7 @@
 
 ##### 预售（Pre-order）:
 
-> 参与预售的所有小伙伴可以获得  <small> **在标准定价的基础上，优惠100元** </small> 
+> 参与预售的所有小伙伴可以获得  <small> **预售活动结束，无任何优惠活动，不参加双11！** </small> 
 
 - 
   - 下单链接： **<small>[下单购买](https://item.taobao.com/item.htm?ft=t&id=682025492099)  支持花呗，暂不支持信用卡支付</small>**
@@ -23,5 +23,5 @@
 > 如果您已经参与我们的预售活动，为了更好的提供售后服务和产品的进一步资讯，可以加我微信，加好友后，需提供订单截图。
 
 - - 微信：`iKoolCore` **<small> 麻烦主动发送订单截图，才会被邀请进群</small>**
-  - Telegram： **<small> [点击进群](https://t.me/+5DJxkY8ZB-kzNzRl)  需要等待审核通过（防止Bot进入）</small>**
+  - Telegram： **<small> [点击进群](https://t.me/+JNTLHzHNwBA1Y2Q1)  需要等待审核通过（防止Bot进入）</small>**
 
