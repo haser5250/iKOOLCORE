@@ -1,8 +1,13 @@
 > 因为我自己也被割过很多次韭菜，所以我的项目，我保证：
 >
 > - 产品所有硬件信息公开透明；
+>
 > - 公开卖货，公开赚钱，信息透明，消费者和卖家信息对称；
-> - 接受批判的声音<BR> **<small>(不看完本wiki乱喷者，没点独立思考能力的人，怎么喷的，我会加10倍喷回去，且会让各投资者（已下单VIP客户）齐喷回去)</small>** <br> 示例1 `hostloc(MJJ)`   [`溜溜球`](https://hostloc.com/thread-1062216-1-1.html)： <small>**[关于 前几天开车的软路由 价格高的离谱 群已被踢](https://hostloc.com/thread-1062216-1-1.html)**</small> <br> `脑残逻辑 让人笑话` <br>
+>
+> - 接受批判的声音<BR> **<small>(不看完本wiki乱喷者，没点独立思考能力的人，怎么喷的，我会加10倍喷回去，且会让各投资者（已下单VIP客户）齐喷回去)</small>** <br> 示例1 `hostloc(MJJ)`   [`溜溜球`](https://hostloc.com/thread-1062216-1-1.html)： <small>**[关于 前几天开车的软路由 价格高的离谱 群已被踢](https://hostloc.com/thread-1062216-1-1.html)**</small> <br>
+>
+>   [HostLoc](https://hostloc.com/thread-1062216-1-1.html ':include :type=iframe width=100% height=400px')
+>    `脑残逻辑 让人笑话` <br>
 
 
 
