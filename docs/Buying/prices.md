@@ -1,21 +1,22 @@
 ![](../images/Banner_404.png)
+<h5><center>物料成本稍微上涨一些，价格稍微上涨。烦请理解！</center></h5>
 
 
 |  CPU  | 内存大小<br> `板载，双颗粒双通道`<br/>`不可升级` | **[硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)** 大小<br> `NVMe协议`<br>`（SATA协议需求少，暂不生产）` |  价格  |                           购买链接                           |
 | :---: | :----------------------------------------------: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: |
-| N5105 |                       8GB                        | `不带` **<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥999  | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1299 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N5105 |                       8GB                        | `不带` **<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1069 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1369 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N5105 |                       8GB                        |                            128GB                             | ￥1199 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N5105 |                       8GB                        |                            128GB                             | ￥1269 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N5105 |                       16GB                       |                            512GB                             | ￥1799 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N5105 |                       16GB                       |                            512GB                             | ￥1869 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N6005 |                       8GB                        | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1199 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1499 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N6005 |                       8GB                        | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1269 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1569 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N6005 |                       8GB                        |                            128GB                             | ￥1399 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N6005 |                       8GB                        |                            128GB                             | ￥1469 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N6005 |                       16GB                       |                            512GB                             | ￥1999 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N6005 |                       16GB                       |                            512GB                             | ￥2069 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 
 ##### 选购建议：
 
@@ -47,3 +48,4 @@
 ![](../images/banner.png)
 
 <H5><center>方寸之间 尽享乐趣<br>颜  值  在  线  性  能  强  劲</center>
+
