@@ -31,8 +31,14 @@
   - 持续优化细节，USB-C供电口和TYPE-C数据口已经做削薄处理，以确保通用的C公头长度够长，能插的牢靠
 - 其他细节：
   - 脚垫
-  - 包装材料
+    使用金属脚垫+M2的内六角沉头螺丝固定（底部菊花后续会改成其他图案设计）；
+    <img src="../images/button_side.png" style="zoom:50%;" />
   - 电源标签
+    <img src="../images/power.png" style="zoom:50%;" />
   - 机器标签
-  - 说明书优化
+    
+  - 说明书优化  **<small>【双语】 ，[点此下载PDF版本]()</small>** 
+    ![](../images/manual_pdf.png)
+  - 整机包装：
+    <img src="../images/package.png" style="zoom:50%;" />
 
