@@ -140,7 +140,6 @@
   |    OpenSpeedTest    | http://192.168.1.3:3000  |      -      |         -          |     网络测速服务     |
   |       Squoosh       | http://192.168.1.3:7701  |      -      |         -          |     图片压缩服务     |
   |      Qinglong       | http://192.168.1.3:5700  | `未初始化设置` | `未初始化设置`    |     青龙脚本面板     |
-  |      NextCloud      | http://192.168.1.3:8080  | `ikoolcore` | `ikoolcoreisgreat` |     在线协作平台     |
   | Nginx Proxy Manager |  http://192.168.1.3:81   | `ikoolcore` | `ikoolcoreisgreat` |     反向代理服务     |
 
 - Windows10 LTSC：
