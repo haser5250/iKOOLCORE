@@ -136,10 +136,10 @@
   |      容器服务       |         后台地址         |   用户名    |        密码        |         用途         |
   | :-----------------: | :----------------------: | :---------: | :----------------: | :------------------: |
   |      Portainer      | https://192.168.1.3:9443 | `ikoolcore` | `8a2^myngJ!Ynpfc`  | 可视化docker管理服务 |
-  |        Alist        | http://192.168.1.3:5244  |      -      |         -          |     网盘挂载服务     |
+  |        Alist        | http://192.168.1.3:5244  | `ikoolcore` | `ikoolcoreisgreat` |     网盘挂载服务     |
   |    OpenSpeedTest    | http://192.168.1.3:3000  |      -      |         -          |     网络测速服务     |
   |       Squoosh       | http://192.168.1.3:7701  |      -      |         -          |     图片压缩服务     |
-  |      Qinglong       | http://192.168.1.3:5700  | `ikoolcore` | `ikoolcoreisgreat` |     青龙脚本面板     |
+  |      Qinglong       | http://192.168.1.3:5700  | `未初始化设置` | `未初始化设置`    |     青龙脚本面板     |
   |      NextCloud      | http://192.168.1.3:8080  | `ikoolcore` | `ikoolcoreisgreat` |     在线协作平台     |
   | Nginx Proxy Manager |  http://192.168.1.3:81   | `ikoolcore` | `ikoolcoreisgreat` |     反向代理服务     |
 
