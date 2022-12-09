@@ -22,7 +22,7 @@
 
 ![dogxiao_1](../docs/images/dogxiao/dogxiao_1.jpg)
 
-![dogxiao_1](../docs/images/dogxiao/dogxiao_2.jpg)
+![dogxiao_2](../docs/images/dogxiao/dogxiao_2.jpg)
 
 ![dogxiao_1](../docs/images/dogxiao/dogxiao_3.jpg)
 
