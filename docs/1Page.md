@@ -119,18 +119,10 @@
 
 - 路由系统：
 
-<<<<<<< HEAD
-  |              虚拟机系统              |   IP地址    | 用户名 |    密码     |                      备注                      |
-  | :----------------------------------: | :---------: | :----: | :---------: | :--------------------------------------------: |
-  | **Lean专属优化固件<br> ~~OpenWRT~~** | 192.168.1.1 |  root  | `ikoolcore` | 请根据自己的喜好，自行设置自己需要的路由器系统 |
-
-  **Lean已经推出针对R1硬件设计的优化版本开源路由OpenWRT系统：[点击下载](https://u.iswott.com:8888/d/ISOs/OpenWRT%E5%9B%BA%E4%BB%B6/openwrt-x64-iKoolCore-R1-squashfs-combined-efi.img.gz)**
-=======
   |                          虚拟机系统                          |   IP地址    | 用户名 |    密码     |                      备注                      |
   | :----------------------------------------------------------: | :---------: | :----: | :---------: | :--------------------------------------------: |
   | ~~**OpenWRT, 爱快, pfsense, OPNSense, Panabit<br>(某国内开源路由系统)**~~ | 192.168.1.1 |  root  | `ikoolcore` | 请根据自己的喜好，自行设置自己需要的路由器系统 |
-> **<small>管理口：LAN1；</br>WAN口：LAN2(默认设置DHCP，请根据需要修改为PPPoE)；</br>LAN口：LAN3, LAN4 </br></small>**
->>>>>>> 72f160c19b3685de40dd58e9850dd1eb71d2ed5b
+> **<small>管理口：LAN1；</br>WAN口：LAN2(默认设置DHCP，请根据需要修改为PPPoE)；</br>LAN口：LAN3, LAN4 </br></small> Lean已经推出针对R1硬件设计的优化版本开源路由OpenWRT系统：[点击下载](https://u.iswott.com:8888/d/ISOs/OpenWRT%E5%9B%BA%E4%BB%B6/openwrt-x64-iKoolCore-R1-squashfs-combined-efi.img.gz)**
 
 - Debian11
 

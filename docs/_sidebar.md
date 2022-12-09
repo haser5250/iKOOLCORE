@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [快速了解项目](/1Page.md)
+- [了解项目](/1Page.md)
 
 - [1.硬酷R1](/README.md)
   - [项目由来](/project/introduction.md)
