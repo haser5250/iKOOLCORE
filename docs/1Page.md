@@ -1,7 +1,5 @@
 # 硬酷R1：
 
-[TOC]
-
 ### 一、产品介绍：
 
 ![](https://u.iswott.com:8888/d/Pics/Banner_404.png)
@@ -67,7 +65,7 @@
 2. **虚拟机（Hypervisor）：** <br>
    硬酷R1基于通用x86架构设计，你可以安装运行 XCP-ng、Citrix Hypervisor、ESXi、Proxmox 等虚拟机。
 
-   - 4 个i226-IT 2.5G网口可让您将专用网络资源分配给各个虚拟机或容器；
+   - 4 个i226-V 2.5G网口可让您将专用网络资源分配给各个虚拟机或容器；
    - 使用赛扬N5105/奔腾N6005，高达16GB内存可选，可以部署更多虚拟机；
 
 3. **远程办公（Remote Office）** <br>
@@ -121,9 +119,11 @@
 
 - 路由系统：
 
-  |                          虚拟机系统                          |   IP地址    | 用户名 |    密码     |                      备注                      |
-  | :----------------------------------------------------------: | :---------: | :----: | :---------: | :--------------------------------------------: |
-  | ~~**OpenWRT, 爱快, pfsense, OPNSense, Panabit<br>(某国内开源路由系统)**~~ | 192.168.1.1 |  root  | `ikoolcore` | 请根据自己的喜好，自行设置自己需要的路由器系统 |
+  |              虚拟机系统              |   IP地址    | 用户名 |    密码     |                      备注                      |
+  | :----------------------------------: | :---------: | :----: | :---------: | :--------------------------------------------: |
+  | **Lean专属优化固件<br> ~~OpenWRT~~** | 192.168.1.1 |  root  | `ikoolcore` | 请根据自己的喜好，自行设置自己需要的路由器系统 |
+
+  **Lean已经推出针对R1硬件设计的优化版本开源路由OpenWRT系统：[点击下载](https://u.iswott.com:8888/d/ISOs/OpenWRT%E5%9B%BA%E4%BB%B6/openwrt-x64-iKoolCore-R1-squashfs-combined-efi.img.gz)**
 
 - Debian11
 
@@ -136,7 +136,7 @@
   |      容器服务       |         后台地址         |   用户名    |        密码        |         用途         |
   | :-----------------: | :----------------------: | :---------: | :----------------: | :------------------: |
   |      Portainer      | https://192.168.1.3:9443 | `ikoolcore` | `8a2^myngJ!Ynpfc`  | 可视化docker管理服务 |
-  |        Alist        | http://192.168.1.3:5244  |      -      |         -          |     网盘挂载服务     |
+  |        Alist        | http://192.168.1.3:5244  | `ikoolcore` | `ikoolcoreisgreat` |     网盘挂载服务     |
   |    OpenSpeedTest    | http://192.168.1.3:3000  |      -      |         -          |     网络测速服务     |
   |       Squoosh       | http://192.168.1.3:7701  |      -      |         -          |     图片压缩服务     |
   |      Qinglong       | http://192.168.1.3:5700  | `ikoolcore` | `ikoolcoreisgreat` |     青龙脚本面板     |
@@ -163,71 +163,39 @@
 
 |  CPU  | 内存大小<br> `板载，双颗粒双通道`<br/>`不可升级` | **[硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)** 大小<br> `NVMe协议`<br>`（SATA协议需求少，暂不生产）` |  价格  |                           购买链接                           |
 | :---: | :----------------------------------------------: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: |
-| N5105 |                       8GB                        | `不带` **<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1069 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1369 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N5105 |                       8GB                        | `不带` **<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥999  | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1299 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N5105 |                       8GB                        |                            128GB                             | ￥1269 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N5105 |                       8GB                        |                            128GB                             | ￥1199 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N5105 |                       16GB                       |                            512GB                             | ￥1869 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N5105 |                       16GB                       |                            512GB                             | ￥1699 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N6005 |                       8GB                        | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1269 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1569 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N6005 |                       8GB                        | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1199 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1399 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N6005 |                       8GB                        |                            128GB                             | ￥1469 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N6005 |                       8GB                        |                            128GB                             | ￥1399 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N6005 |                       16GB                       |                            512GB                             | ￥2069 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N6005 |                       16GB                       |                            512GB                             | ￥1899 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 
 ##### 选购建议：
 
 1. 如果是计划物理机安装开源操作系统，选择 `N5105 + 8GB + 128GB` 足够折腾；
 2. 如果是计划玩虚拟机，那么建议内存优先考虑16GB，如果仅是PVE下双软路由，8GB内存也是足够的；
 3. 关于带硬盘配置的硬盘品牌问题：
-   硬酷科技找OEM合作厂商专属定制硬盘，质保3年，放心使用。<br>带**[硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)** 配置订单，如需要代为安装系统，需下单时备注所需安装的开源操作系统。<br>部分512GB NVMe协议硬盘为从某售后服务中心拿到的 *三星PM991、PM991A、镁光C2450* 等数量极少。<br>优先给早期项目支持者 <small>**（已结束）**</small>。
-4. OEM定制硬盘标签纸如下图所示：<br>
-   - **[硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)** 芯片信息：
-     - NVMe主控：联芸(Maxio)科技 **MAP1202A-F1C  <small>(以128G为例，其他容量主控可能有变化) </small>** ，使用此款芯片的市售产品有： [海康威视CC500](https://zhuanlan.zhihu.com/p/394138333) 、[Lexar雷克沙NM610PRO](https://diy.pconline.com.cn/1535/15359085.html) 、[致态TiPlus5000](https://www.chongdiantou.com/archives/137851.html) 
-     - 颗粒：长江存储
-     - 保修政策： **3年只换不修**
-
-##### 产品价格：
-
-**<small>首先，感谢所有在10.1之前下单的下伙伴，让你们等货太久了。Thanks for your trust, support, waitting and suggestions!<br>所有在10月15日之前下单的小伙伴在订单交易成功之后，可以获得额外的¥20 RMB的红包返还，这个属于延迟发货的补偿，但我有一个小小的请求：交易成功后，请给我们一个5🌟好评（只要是中肯有理的非五星，都接受），并且带上3-5张R1实拍图，感谢感谢！</small>**
-
-> **<small>特别强调：R1由于研发成本、物料成本、生产成本等多方面的成本因素考虑，目前的售价是非常便宜的，不确定现货后是否会涨价，以及涨价幅度。</small>**
->
-> - **<small>研发成本：产品完全从0到1进行开发，整个产品出来，超过20位研发人员参与；</small>**
->
-> - **<small>物料成本：贸易环境恶化，芯片涨价，人民币汇率跌，任何一个因素都导致元器件采购成本上涨，现在是三个因素一起来；</small>**
->
-> - **<small>生产成本：疫情一下，防疫大于一切，中间因为疫情静默7天；总体进度受疫情有14-28天的进度影响。</small>**
->
->   **<small>mini PC内卷白热化，需求相对小众，利润有限，不参加优惠活动。</small>**
+   硬酷科技找OEM合作厂商专属定制 **低温盘** ，质保3年，放心使用。<br>
+4. **[硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)** 芯片信息：
+   - NVMe主控：联芸(Maxio)科技 **MAP1202A-F1C** ，使用此款芯片的市售产品有： [海康威视CC500](https://zhuanlan.zhihu.com/p/394138333) 、[Lexar雷克沙NM610PRO](https://diy.pconline.com.cn/1535/15359085.html) 、[致态TiPlus5000](https://www.chongdiantou.com/archives/137851.html) 
+   - 颗粒：长江存储
+   - 保修政策： **3年只换不修**
 
 
 
-##### 产品调整：
+##### 退换货政策
 
-首先，感谢你的耐心与漫长的等待，在您拆封本定制产品之前，烦请注意以下几点产品更改：
-
-1. **关于TF卡**：TF卡无法支持Windows下的启动，但是可以作为普通存储使用，支持Linux下的启动；
-2. **关于外观宣传图和实物差异：**
-   - ***侧面散热隔栅：*** 出于风道设计，由原来的细孔变成两个大孔，另外一侧开孔取消，跟详情页图片有细微差别；
-   - ***上盖：*** 上盖宣传图也是塑胶材质，后续上盖会有金属材质版本，可直接作为硬盘散热器，正在开发中...
-3. **关于硬盘：**
-   - ***硬盘协议：*** 由于NVME扩展性比SATA更好，我们首批没有量产SATA版本，如果你下单的是SATA版本，现现免费升级到NVME版本；
-   - ***硬盘规格***：硬盘规格为M.2接口，2242尺寸，NVME协议，烦请自备硬盘小伙伴不要购买错硬盘以免浪费；
-4. **关于电源：**
-   - ***电源类型：*** DC电源，**请勿使用各位手头有的PD协议的C口电源**，谨防烧掉R1主板。**切记！切记！切记！**
-   - ***其他说明：*** 不再标配PD诱骗线和DC母头转C公头线缆，由于目前市售的不是所有PD充电头都有12V电压输出档位，所以为了不了解自己PD充电头的小伙伴不会因为不知道导致主板烧坏，故不在标配PD诱骗线; DC母头转C口公头，如果您真有需要，后续再找客服补发（需要年底）；
-5. **关于退换货：**
-   - **不支持7天无理由退换货： 定制产品，烦请谨慎思考后做购买决策；质量问题，随时联系客服处理，无忧售后；**
-   - ⚠️**特别注意：拆封后非质量问题不退不货，质量问题，请拍摄长视频且不能压缩画质发送给客服确认问题点；如无法接受前面4点，请不要拆封产品，一经拆封，默认接受定制产品概念和实物的细微调整。**
+- **不支持7天无理由退换货： 定制产品，烦请谨慎思考后做购买决策；质量问题，随时联系客服处理，无忧售后；**
+- ⚠️**特别注意：拆封后非质量问题不退不货，质量问题，请拍摄长视频且不能压缩画质发送给客服确认问题点；如无法接受前面4点，请不要拆封产品，一经拆封，默认接受定制产品概念和实物的细微调整。**
 
 **未尽事宜，以咨询客服为准。感谢各位等待硬酷R1的各位消费者。**
-
-旺旺：**<small>烦请详细阅读以上信息，并回复「接受」或「不接受」给我们，你也可以直接在快递尚未发出之前，直接申请仅退款申请，感谢。</small>**
-
-
 
 
 
@@ -259,6 +227,7 @@
 ###### 驱动与BIOS：
 
 1. Intel i226-V驱动：[点此跳转到Github下载](https://github.com/KoolCore/ikoolcore/blob/main/docs/files/Intel%20i226-v%20Driver%20Wired_driver_27.6_x64.zip)
+
 2. BIOS下载：
    - 出厂默认BIOS：[点此前往下载（未放出）]()
    - NVME协议BIOS：[点此前往下载（未放出）]())
@@ -274,9 +243,6 @@
 
 4. ##### 发货说明：
 
-   - 订单会使用 **菜鸟裹裹商家（可系统自动录入快递单号，加快发货速度）** 物流发出；
-
-   - 包裹和包裹内的机器均会使用防拆封标签， **机器一经拆封，不支持非质量问题的7天无理由退换货申请(这点需要额外注意)** ，介意此条者可于发货前、快递收到但机器未拆封前，申请 **仅退款** 和**退货退款申请** 。感谢理解！*
-
-   - **整机质保一年 （过保成本维修），项目维护3年。**
+   - 订单会使用 **顺丰快递** 发出；
+- 包裹和包裹内的机器均会使用防拆封标签， **机器一经拆封，不支持非质量问题的7天无理由退换货申请(这点需要额外注意)** ，介意此条者可于发货前、快递收到但机器未拆封前，申请 **仅退款** 和**退货退款申请** 。感谢理解！
 
