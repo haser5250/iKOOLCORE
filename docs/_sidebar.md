@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 - [了解项目](/1Page.md)
-
 - [1.硬酷R1](/README.md)
   - [项目由来](/project/introduction.md)
   - [产品定位](/project/position.md)
@@ -23,7 +22,6 @@
   - [出厂配置](/guidance/configuration.md)
   - [使用说明书](/guidance/manual.md)
   - [默认系统](/guidance/default_os.md)
-  - [Up主评测](/guidance/reviews.md)
-  - [真机实测](/guidance/test.md)
+  - [开箱、拆解与评测](/guidance/reviews.md)
   
 
