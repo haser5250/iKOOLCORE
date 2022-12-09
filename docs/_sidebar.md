@@ -2,7 +2,7 @@
 
 - [了解项目](/1Page.md)
 
-  **[广西仔的故事🦴](/dogxiao.md)**
+  **[广西仔](/dogxiao.md)**
 
 - [1.硬酷R1](/README.md)
   - [项目由来](/project/introduction.md)
