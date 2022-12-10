@@ -2,7 +2,7 @@
 
 ### 一、产品介绍：
 
-![](https://u.iswott.com:8888/d/Pics/Banner_404.png)
+![](..\docs\1Page\banner.jpg)
 
 > 硬酷R1（iKoolCore R1）是一个迟来的硬件项目，由推特网友 **[Jackeroo](https://twitter.com/isJackeroo)** 联合深圳的硬件工厂推出的目前市场最小巧且性能强大的4网口2.5G小主机。“方寸之间 尽享乐趣” 是硬酷R1的slogon。
 
@@ -15,8 +15,6 @@
 拒绝❌傻❌大❌黑❌粗<br>
 ❌拒 绝 减/简 配！ ❌拒 绝 电 子 垃 圾❌<br>
 聚集一群有共同兴趣爱好的小伙伴</center></h3>
-![](https://u.iswott.com:8888/d/Pics/mul_banner.png)
-
 #### 2. 硬件设计：
 
 > 从零到一，独家开发。
@@ -96,8 +94,6 @@
 
 6. **家庭媒体服务器：**<br>
    借助诸如jellyfin, Plex, alist等docker工具，轻松扮演家庭内网的媒体服务器。
-
-![](https://u.iswott.com:8888/d/Pics/banner.jpg)
 
 
 
