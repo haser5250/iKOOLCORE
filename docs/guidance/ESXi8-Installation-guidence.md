@@ -8,25 +8,6 @@
 
 把相关操作记录一下，为需要的人做个参考。
 
-# 目录
-
-- [酷硬R1 安装 ESXI 8](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#酷硬r1-安装-esxi-8)
-- 目录
-  - 准备工作
-    - [ESXI 8 安装文件](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#esxi-8-安装文件)
-    - [ventoy写盘工具](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#ventoy写盘工具)
-    - [Openwrt固件](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#openwrt固件)
-    - [StarWind V2V Converter程序](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#starwind-v2v-converter程序)
-  - 安装步骤
-    - [ventoy写盘](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#ventoy写盘)
-    - [ESXI挂载](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#esxi挂载)
-    - [ESXI安装(重点)](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#esxi安装重点)
-    - [ESXI后台配置](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#esxi后台配置)
-  - ESXI前台配置
-    - [基础设置](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#基础设置)
-    - [网络设置](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#网络设置)
-    - [配置OPENWRT虚拟机](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/R1_ESXI8.md#配置openwrt虚拟机)
-
 ## 准备工作
 
 - esxi 8 安装程序
@@ -277,3 +258,5 @@ PCI设备 设置中，可以切换硬件是否直通，这个后边会说到
 最后说一下，如果要虚拟机开启自动启动，按下图操作即可。
 
 [![image](https://koolcore.oss-cn-shenzhen.aliyuncs.com/wiki/esxisetup36.png)](https://github.com/smallprogram/OpenWrtAction/blob/main/docs/pic/R1_ESXI8/esxisetup36.png)
+
+![R1Ad2](https://koolcore.oss-cn-shenzhen.aliyuncs.com/wiki/R1Ad2.png)

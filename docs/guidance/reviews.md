@@ -24,5 +24,9 @@
 
      [YouTube]() | [bilibili](https://www.bilibili.com/video/BV1Me411P7QQ/)
 
-   
+6. 悟空的日常：
+
+   - **[硬酷R1 小型电脑和服务器 快速开箱](https://www.douyin.com/video/7175378350398016825)**
+
+     [抖音](https://www.douyin.com/video/7175378350398016825)
 
