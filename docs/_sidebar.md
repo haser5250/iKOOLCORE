@@ -9,7 +9,7 @@
   
 - 2.R1产品设计
   - [设计图纸](/hardwareDesign/Design.md)
-  - [工程样机](/hardwareDesign/sample.md)
+  - [真机]()
   - [样机测试](/)
   
 - 3.R1预售规则

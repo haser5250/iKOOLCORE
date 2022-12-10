@@ -1,6 +1,6 @@
-![](..\images\Banner_404.png)
+![mul_banner](..\docs\images\R1Ad1.png)
 
-##### 硬件参数：[AIDA64报告](https://github.com/KoolCore/ikoolcore/blob/main/docs/files/Report.htm)
+##### 硬件参数：
 
 > 从0到1，全新设计。
 
