@@ -19,7 +19,7 @@
 | :----------------------------------------------------------: | :---------: | :----: | :---------: | :--------------------------------------------: |
 | ~~**OpenWRT, 爱快, pfsense, OPNSense, Panabit<br>(某国内开源路由系统)**~~ | 192.168.1.1 |  root  | `ikoolcore` | 请根据自己的喜好，自行设置自己需要的路由器系统 |
 
-> **<small>管理口：LAN1；</br>WAN口：LAN2(默认设置DHCP，请根据需要修改为PPPoE)；</br>LAN口：LAN3, LAN4 </br></small> Lean已经推出针对R1硬件设计的优化版本开源路由OpenWRT系统：[点击下载](https://github.com/KoolCore/ikoolcore/blob/main/docs/files/openwrt-x64-iKoolCore-R1-squashfs-combined-efi.img.gz)**
+> **<small>管理口：LAN1；</br>WAN口：LAN2(默认设置DHCP，请根据需要修改为PPPoE)；</br>LAN口：LAN3, LAN4 </br></small> Lean已经推出针对R1硬件设计的优化版本开源路由OpenWRT系统：[点击下载](https://drive.google.com/drive/folders/1p8LUQPUB49AUuJzbCT0dpLaD8_xyNwzB?usp=share_link)**
 
 - Debian11
 

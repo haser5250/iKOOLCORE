@@ -205,20 +205,13 @@
 2. 产品发货后，未拆封包裹之前，无条件支持退货退款申请；
 3. 产品拆封后，一律不支持非硬件质量问题的退换货服务（包括人为损坏、人为故障）等，客服有最终解释权。
 4. 产品整机质保一年，硬盘质保3年（只换不修）
-5. 整机售后服务周期2年，期间超过1年不到2年之内的所有硬件问题，均成本芯片级维修，支持多次售后申请，直到问题解决 **(CPU不挂的前提下，一切硬件问题都不是问题)** ；
+5. 整机售后服务周期2年，期间超过1年不到2年之内的所有硬件问题，均成本芯片级维修，支持多次售后申请，直到问题解决 **(CPU不挂的前提下，一切硬件问题都不是问题，实力工厂，拥有专门售后部门，可实现芯片级维修！)** ；
 
 
 
 ##### 2. 产品固件与驱动下载：
 
-###### 固件推荐：
-
-1. OpenWRT固件推荐：[点此前往下载](https://u.iswott.com:8888/ISOs/) 
-2.  iKuai固件：[点此前往下载](https://u.iswott.com:8888/ISOs/) 
-3. pfsense固件：[点此前往下载](https://u.iswott.com:8888/ISOs/) 
-4. OPNsense固件：[点此前往下载](https://u.iswott.com:8888/ISOs/) 
-5. Proxmox VE 固件：[点此前往下载](https://u.iswott.com:8888/ISOs/) 
-6. VMware ESXi固件[点此前往下载](https://u.iswott.com:8888/ISOs/) 
+###### 固件推荐：[谷歌云盘](https://drive.google.com/drive/folders/1p8LUQPUB49AUuJzbCT0dpLaD8_xyNwzB?usp=share_link)
 
 ###### 驱动与BIOS：
 
