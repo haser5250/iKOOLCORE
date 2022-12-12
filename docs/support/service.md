@@ -4,10 +4,14 @@
 >
 > - 公开卖货，公开赚钱，信息透明，消费者和卖家信息对称；
 >
-> - 接受批判的声音<BR> **<small>(不看完本wiki乱喷者，没点独立思考能力的人，怎么喷的，我会加10倍喷回去，且会让各投资者（已下单VIP客户）齐喷回去)</small>** <br> 示例1 `hostloc(MJJ)`   [`溜溜球`](https://hostloc.com/thread-1062216-1-1.html)： <small>**[关于 前几天开车的软路由 价格高的离谱 群已被踢](https://hostloc.com/thread-1062216-1-1.html)**</small> <br>
+> - 接受批判的声音<BR> **<small>(不看完本wiki乱喷者，没点独立思考能力的人，怎么喷的，我会加10倍喷回去，且会让各投资者（已下单VIP客户）齐喷回去)</small>** 
 >
->   [HostLoc](https://hostloc.com/thread-1062216-1-1.html ':include :type=iframe width=100% height=400px')
->    `脑残逻辑 让人笑话` <br>
+>   - 示例1 `hostloc(MJJ)`   [`溜溜球`](https://hostloc.com/thread-1062216-1-1.html)： <small>**[关于 前几天开车的软路由 价格高的离谱 群已被踢](https://hostloc.com/thread-1062216-1-1.html)**</small> <br>点评：`脑残逻辑 让人笑话` <br>
+>   
+>   - 示例2：`肖军-广西北海（什么值得买App账号：值友205432779）` **<small>[点此跳转TA个人值得买主页](https://zhiyou.smzdm.com/member/5631563959/) | [点此跳转查看他的评论（需查找）](https://post.smzdm.com/p/a7ndo0m9/)</small>**<br>**<small>[吃瓜点此](https://github.com/KoolCore/ikoolcore/blob/main/docs/dogxiao.md)（包让你们见识啥不要脸，啥叫垃圾佬，刷新三观下限）</small>**
+>     - 微信昵称：linkstars
+>     - 微信ID：bybypq
+>     - 电话：150xxxx3339（**xxxx为当地区号**，为保护这位广西仔的隐私，止步于此。）
 
 
 
