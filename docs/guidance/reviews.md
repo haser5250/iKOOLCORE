@@ -30,3 +30,14 @@
 
      [抖音](https://www.douyin.com/video/7175378350398016825)
 
+7. 老白：[Jack stone](https://space.bilibili.com/8767050)
+
+   - **[性能还能保持强悍吗？本星球最迷你多网口电脑硬酷R1测试！要看到最后！😄](https://www.youtube.com/watch?v=q8BAPUCaYls)**
+
+     [YouTube](https://www.youtube.com/watch?v=q8BAPUCaYls)  |  [bilibli](https://www.bilibili.com/video/BV1YD4y1a7Zw/)
+
+8. Flying Pig山猪折腾记:
+
+   - **[iKOOLCORE R1 X86性能小钢炮 all in boom迷你机 硬酷R1 体验](https://www.youtube.com/watch?v=W3kQOvnF4eM)**
+
+     [YouTube](https://www.youtube.com/watch?v=W3kQOvnF4eM)  | [bilibili](https://www.bilibili.com/video/BV1jg411n7hA/)
