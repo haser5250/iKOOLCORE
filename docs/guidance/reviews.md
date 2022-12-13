@@ -22,7 +22,7 @@
 
    - **[巴掌大的家庭服务器，我心目中的梦想情机硬酷R1。N6005+4个2.5G网口 | PVE | ESXi | HomeAssistant | 24小时推流机 |](https://www.youtube.com/watch?v=IoxWN77SgBM)**
 
-     [YouTube]() | [bilibili](https://www.bilibili.com/video/BV1Me411P7QQ/)
+     [YouTube](https://www.youtube.com/watch?v=IoxWN77SgBM) | [bilibili](https://www.bilibili.com/video/BV1Me411P7QQ/)
 
 6. 悟空的日常：
 

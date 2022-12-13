@@ -23,7 +23,7 @@
   - [出厂配置](/guidance/configuration.md)
   - [使用说明书](/guidance/manual.md)
   - [默认系统](/guidance/default_os.md)
-  - [开箱、拆解与评测](/guidance/reviews.md)
+  - [开箱、拆解与评测](/guidance/reviews0.md)
   - [使用教程](/guidance/how-to-use.md)
   
 
