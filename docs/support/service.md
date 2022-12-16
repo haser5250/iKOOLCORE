@@ -8,10 +8,10 @@
 >
 >   - 示例1 `hostloc(MJJ)`   [`溜溜球`](https://hostloc.com/thread-1062216-1-1.html)： <small>**[关于 前几天开车的软路由 价格高的离谱 群已被踢](https://hostloc.com/thread-1062216-1-1.html)**</small> <br>点评：`脑残逻辑 让人笑话` <br>
 >   
->   - 示例2：`肖军-广西北海（什么值得买App账号：值友205432779）` **<small>[点此跳转TA个人值得买主页](https://zhiyou.smzdm.com/member/5631563959/) | [点此跳转查看他的评论（需查找）](https://post.smzdm.com/p/a7ndo0m9/)</small>**<br>**<small>[吃瓜点此](https://github.com/KoolCore/ikoolcore/blob/main/docs/dogxiao.md)（包让你们见识啥不要脸，啥叫垃圾佬，刷新三观下限）</small>**
->     - 微信昵称：linkstars
->     - 微信ID：bybypq
->     - 电话：150xxxx3339（**xxxx为当地区号**，为保护这位广西仔的隐私，止步于此。）
+>   - 示例2：`某军-广西北海` **<small>此人已认怂，主动删除了张大妈、B站和YouTube上所有恶评，这里不放链接了。</small>**<br>**<small>[吃瓜点此](https://github.com/KoolCore/ikoolcore/blob/main/docs/dogxiao.md)（包让你们见识啥不要脸，啥叫垃圾佬，刷新三观下限）</small>** `正在处理当事人相关信息...`
+>     - 微信昵称：`此人已认怂，暂时隐藏`
+>     - 微信ID：`此人已认怂，暂时隐藏`
+>     - 电话：`此人已认怂，暂时隐藏`
 
 
 
