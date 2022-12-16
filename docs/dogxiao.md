@@ -128,7 +128,16 @@
 ![dogxiao_1](../docs/images/dogxiao/dogxiao_32.jpg)
 ![dogxiao_1](../docs/images/dogxiao/dogxiao_33.jpg)
 
-![dogxiao_1](../docs/images/dogxiao/dogxiao_35.jpg)
 
 
 
+
+# 认怂后的xx军
+
+![dogxiao_1](..\docs\dogxiao\dogxiao_34.png)
+
+![dogxiao_1](..\docs\dogxiao\dogxiao_35.png)
+
+![dogxiao_1](..\docs\dogxiao\dogxiao_36.png)
+
+![dogxiao_1](..\docs\dogxiao\dogxiao_37.png)
