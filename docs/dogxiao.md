@@ -91,7 +91,7 @@
 
 ![dogxiao_1](../docs/images/dogxiao/dogxiao_21.jpg)
 
-![dogxiao_1](../docs/images/dogxiao/dogxiao_22.png)
+![dogxiao_1](../docs/images/dogxiao/dogxiao_22.jpg)
 
 **广西仔在2022年12月9日疯狂在[「什么值得买」](https://post.smzdm.com/p/a7ndo0m9/)上满嘴喷粪并在平台发起了新的对阿里小二的投诉处理结果不满意（也就是投诉小二，希望重新让平台施压给我让我发货的目的）的新的投诉**
 
