@@ -4,19 +4,19 @@
 
 |  CPU  | 内存大小<br> `板载，双颗粒双通道`<br/>`不可升级` | **[硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)** 大小<br> `NVMe协议`<br>`（SATA协议需求少，暂不生产）` |  价格  |                           购买链接                           |
 | :---: | :----------------------------------------------: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: |
-| N5105 |                       8GB                        | `不带` **<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1069 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1369 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N5105 |                       8GB                        | `不带` **<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥999  | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1299 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N5105 |                       8GB                        |                            128GB                             | ￥1269 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N5105 |                       8GB                        |                            128GB                             | ￥1199 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N5105 |                       16GB                       |                            512GB                             | ￥1869 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N5105 |                       16GB                       |                            512GB                             | ￥1699 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N6005 |                       8GB                        | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1269 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
-|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1569 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N6005 |                       8GB                        | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1199 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+|       |                       16GB                       | `不带`**<small>[单独选购硬盘](https://item.taobao.com/item.htm?ft=t&id=686963354915)</small>** | ￥1499 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N6005 |                       8GB                        |                            128GB                             | ￥1469 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N6005 |                       8GB                        |                            128GB                             | ￥1399 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 |       |                                                  |                                                              |        |                                                              |
-| N6005 |                       16GB                       |                            512GB                             | ￥2069 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
+| N6005 |                       16GB                       |                            512GB                             | ￥1899 | [![](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E6%B7%98%E5%AE%9D-red)](https://item.taobao.com/item.htm?ft=t&id=682025492099) |
 
 ##### 选购建议：
 
@@ -33,19 +33,8 @@
 
 ##### 关于价格：
 
-**<small>首先，感谢所有在10.1之前下单的下伙伴，让你们等货太久了。Thanks for your trust, support, waitting and suggestions!<br>所有在10月15日之前下单的小伙伴在订单交易成功之后，可以获得额外的¥20 RMB的红包返还，这个属于延迟发货的补偿，但我有一个小小的请求：交易成功后，请给我们一个5🌟好评（只要是中肯有理的非五星，都接受），并且带上3-5张R1实拍图，感谢感谢！</small>**
-
-> **<small>特别强调：R1由于研发成本、物料成本、生产成本等多方面的成本因素考虑，目前的售价是非常便宜的，不确定现货后是否会涨价，以及涨价幅度。</small>**
->
-> - **<small>研发成本：产品完全从0到1进行开发，整个产品出来，超过20位研发人员参与；</small>**
->
-> - **<small>物料成本：贸易环境恶化，芯片涨价，人民币汇率跌，任何一个因素都导致元器件采购成本上涨，现在是三个因素一起来；</small>**
->
-> - **<small>生产成本：疫情一下，防疫大于一切，中间因为疫情静默7天；</small>**
->
->   **<small>鉴于种种因素，R1目前的价格是基本交朋友（不赚钱）的价格；待R1现货后，将会有提高售价，保留合理的利润，为下一代产品积累原始研发资金。</small>**
+**请尊重开发者<br>丑大黑粗同款CPU的工控机价格+8GB内存的价格，基本等于目前R1的价格**
 
 ![](../images/banner.png)
 
 <H5><center>方寸之间 尽享乐趣<br>颜  值  在  线  性  能  强  劲</center>
-

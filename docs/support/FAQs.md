@@ -7,9 +7,9 @@
    | 网卡 | 4 x Intel i226-v `优于i225-v`  （ `PVE` 原生支持，`ESXi` 已有社区驱动支持） |
    | 硬盘 | M.2接口，2242硬盘尺寸，`NVMe协议`                            |
    | 显示 | HDMI 2.0 4K60Hz视频输出                                      |
-   | USB  | USB 3.1 Gen1 x 2; USB-C 3.1 Gen1 x 1; TF Card x 1            |
+   | USB  | USB 3.1 Gen1 x 2; USB-C 3.1 Gen1 x 1; TF Card x 1<small>**支持启动**</small> |
    | 散热 | 主动散热 （均热板+主动散热风扇）                             |
-   | 供电 | USB-C接口供电 12V2A或12V3A <br>   <small>**(~~标配PD诱骗线，可使用PD充电头配合诱骗线供电~~;标配DC母转C公直通线，可以使用DC 12V电源供电)**</small> |
+   | 供电 | USB-C接口供电 DC IN12V2A或12V3A <br>   <small>**可使用PD充电头供电，协商到20V 3.25A**</small> |
    | 尺寸 | 75 x 75 x 48 mm                                              |
 
 2. **产品外观：**

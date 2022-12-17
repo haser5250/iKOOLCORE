@@ -1,6 +1,6 @@
 # The smallest X86 multi-NICs mini PC iKoolCore R1 released!
 
-Hello, I'm [**Jackeroo**](https://twitter.com/isJackeroo) and this is my first post in reddit and I'm going to introduce the [**iKoolCoreR1**](https://wiki.ikoolcore.cn/#/1Page) which spent me almost one year to make it come true. 
+Hello, I'm [**Jackeroo**](https://twitter.com/isJackeroo) and this is my first English Post about R1 and I'm going to introduce the [**iKoolCoreR1**](https://wiki.ikoolcore.cn/#/1Page) which spent me almost one year to make it come true. 
 
 ![5](https://koolcore.oss-cn-shenzhen.aliyuncs.com/wiki/5.JPG)
 
