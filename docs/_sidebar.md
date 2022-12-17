@@ -1,11 +1,14 @@
 <!-- docs/_sidebar.md -->
 
 - [了解项目](/1Page.md)
+
+  [One Page in English](/iKoolCore_R1_introduction_Eng_version.md)
 - [1.硬酷R1](/README.md)
   - [项目由来](/project/introduction.md)
   - [产品定位](/project/position.md)
   - [硬件参数](/project/hardware_design.md)
 - 2.R1产品设计
+
   - [设计图纸](/hardwareDesign/Design.md)
 - 3.R1预售规则
   - [配置及价格](/Buying/prices.md)
@@ -23,5 +26,5 @@
   - [默认系统](/guidance/default_os.md)
   - [开箱、拆解与评测](/guidance/reviews0.md)
   - [使用教程](/guidance/how-to-use.md)
-  
+
 
