@@ -40,11 +40,11 @@
 
 > 2023.01.07之前的所有默认的nginxproxymanger和portainer的密码，因为Jackeroo的粗枝大叶（大家快去扁他），搞错了密码；Jackeroo已经灰溜溜地在2023.01.07日解决并重置了默认配置的密码了。
 >
-> - Portainer:
+> - Portainer:  **<small>[重置密码方法](https://omar2cloud.github.io/rasp/psswd/)</small>**
 >   - 后台地址：https://192.168.1.3:9443
 >   - 用户名：`ikoolcore`
 >   - 密码：`8a2^myngJ!Ynpfc`
-> - nginx proxy manager:
+> - nginx proxy manager: **<small>[重置密码方法](https://github.com/NginxProxyManager/nginx-proxy-manager/discussions/1634)</small>**
 >   - 后台地址：http://192.168.1.3:81
 >   - 登录邮箱：`admin@ikoolcore.com`
 >   - 密码：`ikoolcoreisgreat`
