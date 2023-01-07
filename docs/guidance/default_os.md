@@ -29,14 +29,31 @@
 
   基于Debian11，已经安装docker服务，并基于docker容器，部署有以下微服务：
 
-  |      容器服务       |         后台地址         |     用户名     |        密码        |         用途         |
-  | :-----------------: | :----------------------: | :------------: | :----------------: | :------------------: |
-  |      Portainer      | https://192.168.1.3:9443 |  `ikoolcore`   | `8a2^myngJ!Ynpfc`  | 可视化docker管理服务 |
-  |        Alist        | http://192.168.1.3:5244  |  `ikoolcore`   | `ikoolcoreisgreat` |     网盘挂载服务     |
-  |    OpenSpeedTest    | http://192.168.1.3:3000  |       -        |         -          |     网络测速服务     |
-  |       Squoosh       | http://192.168.1.3:7701  |       -        |         -          |     图片压缩服务     |
-  |      Qinglong       | http://192.168.1.3:5700  | `未初始化设置` |   `未初始化设置`   |     青龙脚本面板     |
-  | Nginx Proxy Manager |  http://192.168.1.3:81   |  `ikoolcore`   | `ikoolcoreisgreat` |     反向代理服务     |
+  |      容器服务       |         后台地址         |        用户名         |                   密码                    |         用途         |
+  | :-----------------: | :----------------------: | :-------------------: | :---------------------------------------: | :------------------: |
+  |      Portainer      | https://192.168.1.3:9443 |      `ikoolcore`      | `8a2^myngJ!Ynpfc`<br>2023.01.07密码已修正 | 可视化docker管理服务 |
+  |        Alist        | http://192.168.1.3:5244  |      `ikoolcore`      |            `ikoolcoreisgreat`             |     网盘挂载服务     |
+  |    OpenSpeedTest    | http://192.168.1.3:3000  |           -           |                     -                     |     网络测速服务     |
+  |       Squoosh       | http://192.168.1.3:7701  |           -           |                     -                     |     图片压缩服务     |
+  |      Qinglong       | http://192.168.1.3:5700  |    `未初始化设置`     |              `未初始化设置`               |     青龙脚本面板     |
+  | Nginx Proxy Manager |  http://192.168.1.3:81   | `admin@ikoolcore.com` |            `ikoolcoreisgreat`             |     反向代理服务     |
+
+> 2023.01.07之前的所有默认的nginxproxymanger和portainer的密码，因为Jackeroo的粗枝大叶（大家快去扁他），搞错了密码；Jackeroo已经灰溜溜地在2023.01.07日解决并重置了默认配置的密码了。
+>
+> - Portainer:
+>   - 后台地址：https://192.168.1.3:9443
+>   - 用户名：`ikoolcore`
+>   - 密码：`8a2^myngJ!Ynpfc`
+> - nginx proxy manager:
+>   - 后台地址：http://192.168.1.3:81
+>   - 登录邮箱：`admin@ikoolcore.com`
+>   - 密码：`ikoolcoreisgreat`
+>
+> 担心你们ssh链接debian11虚拟机也会出问题，这里特别针对新手或者12K小白，强调一下：使用Windows或者Mac终端连接Debian11虚拟机ssh服务，需要使用`ssh ikoolcore@192.168.1.3`，密码也是`ikoolcore`，祝愿大家折腾的愉快，愉快地折腾！<small>（白嫖《爱折腾的老高》频道的结束语，并不会给他钱。）</small>
+
+
+
+
 
 - Windows10 LTSC：
 
